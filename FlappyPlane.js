@@ -7,7 +7,7 @@ class FlappyPlane extends Phaser.Scene {
         this.load.image('back', 'assets/b.png');
         this.load.image('sun', 'assets/sun.png');
         this.load.image('startButton', 'assets/startButton.png');
-        this.load.image('plane', 'assets/plane2.png');
+        this.load.image('plane', 'assets/plane3.png');
         this.load.image('grnd', 'assets/ground2.png');
         this.load.image('ring', 'assets/halfRing.png');
         this.load.image('storecoin', 'assets/storeLogoExample.png');
